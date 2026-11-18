@@ -32,10 +32,7 @@ claude plugin install snowfield --marketplace WhatsEmo/snowfield
 
 ## Screen size
 
-The look was made to fit the screens of its author:
-
-- A built-in 3024 x 1964 Retina laptop display (the main display)
-- A 2560 x 1440 external display
+The look is built for a 2560 x 1440 external display.
 
 The scene changes its size with the width of the window, so it also works at other sizes. On a very different screen, the village can look smaller or larger than intended.
 
