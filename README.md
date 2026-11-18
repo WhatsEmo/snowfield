@@ -2,6 +2,8 @@
 
 A cozy Christmas town with cute creatures.
 
+![The snowfield scene: a snowy village at night with slimes, orange mushrooms and snails](docs/snowfield.gif)
+
 Snowfield is a look for the Claude desktop and mobile apps. It draws an animated night scene behind the conversation.
 
 ## What the scene shows
